@@ -1,0 +1,107 @@
+.nav{
+	border-style: solid;
+	background-color: orange;
+
+}
+body{
+	background-color: gray;
+}
+p{
+	background-color: orange;
+	border-style: solid; 
+	line-height: 4.0;
+	border-radius: 10px;
+}
+
+a{
+	font-style: bold;
+}
+.Home{
+	font-style: bold;
+	padding-left: 150px;
+}
+.btnbck{
+	position: absolute;
+	left: 0;
+	bottom: 0;
+	background-color: orange;
+	border-style: solid;
+	border-radius: 5px;
+
+}
+.btnnext{
+	position: absolute;
+	bottom: 0;
+	right: 0;
+	background-color: orange;
+	border-style: solid;
+	border-radius: 5px;
+
+}
+img{
+	border-style: solid;
+	border-radius: 10px;
+}
+.paddingfix{
+	padding-right: 0px;
+}
+.row{
+	margin-left: 0px;
+	margin-right: 0px;
+}
+.ups{
+	padding-left: 50px;
+}
+.placeholder{
+	
+	display: flex;
+	height:350; 
+	width:350;
+	padding:0px 0px ;
+
+}
+.exp{
+	background-color: #eee;
+	display: flex;
+	height:;
+	width:;
+}
+
+
+.pro{
+	text-align:center;
+
+}
+.req{
+ padding-left: 40px;	
+}
+.picfix{
+	padding-left:80px; 
+}
+.pic{
+	
+height: 250px;
+width: 250px;
+margin:0;
+}
+.navbar{
+	bottom: 0;
+	border-style: solid;
+	background-color: #eee;
+	overflow: hidden;
+	position: fixed;
+	width:100%;
+}
+.btnbck2{
+	left: 0;
+	bottom: 0;	
+	background-color: orange;
+	border-style: solid;
+	border-radius: 5px;
+}
+.botbar{
+	border-style: none; 
+	line-height: 1.0;
+	background-color: #eee;	
+	margin: 0;
+}
